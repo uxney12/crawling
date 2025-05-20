@@ -1,0 +1,2 @@
+E:\INTERN\PORTFOLIO\AUTOMATION\SYSTEM\the_SHEA\app\management\commands\export_google_sheets.py:64: FutureWarning: DataFrame.applymap has been deprecated. Use DataFrame.map instead.
+  df = df.applymap(lambda x: float(x) if isinstance(x, decimal.Decimal) else x)
